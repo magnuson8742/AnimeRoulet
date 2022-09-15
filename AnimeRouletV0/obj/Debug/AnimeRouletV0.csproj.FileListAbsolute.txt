@@ -1,0 +1,14 @@
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\bin\Debug\Database1.mdf
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\bin\Debug\Database1_log.ldf
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\bin\Debug\AnimeRouletV0.exe.config
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\bin\Debug\AnimeRouletV0.exe
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\bin\Debug\AnimeRouletV0.pdb
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.csproj.AssemblyReference.cache
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.csproj.SuggestedBindingRedirects.cache
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.mainScreen.resources
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.Properties.Resources.resources
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.csproj.GenerateResource.cache
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.csproj.CoreCompileInputs.cache
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.exe
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.pdb
+C:\Users\dron4\source\repos\AnimeRouletV0\AnimeRouletV0\obj\Debug\AnimeRouletV0.AnimeIDCheckcs.resources

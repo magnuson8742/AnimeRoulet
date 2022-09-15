@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimeRouletV0", "AnimeRouletV0\AnimeRouletV0.csproj", "{00D56827-80C8-4A6D-BCFB-F88785420FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D56827-80C8-4A6D-BCFB-F88785420FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D56827-80C8-4A6D-BCFB-F88785420FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D56827-80C8-4A6D-BCFB-F88785420FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D56827-80C8-4A6D-BCFB-F88785420FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42427C98-42FA-4ADE-8B4C-3C9E0459155A}
+	EndGlobalSection
+EndGlobal
